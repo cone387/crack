@@ -83,5 +83,3 @@ def main():
         
 if __name__ == "__main__":
     main()
-    # c = CrackCSDN("wakx.520")
-    # c.web_login("18895379450")
